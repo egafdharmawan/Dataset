@@ -1,1 +1,2 @@
 purchase.csv filter=lfs diff=lfs merge=lfs -text
+events.csv filter=lfs diff=lfs merge=lfs -text
